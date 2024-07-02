@@ -14,12 +14,6 @@
 
 - 📚 Sou formado em técnico de informática pelo IFMG (Instituto Federal de Educação, Ciência e Tecnologia de Minas Gerais) - Campus Ribeirão das Neves e atualmente estou cursando o curso de Ciência da Computação na Universidade Federal de Minas Gerais (UFMG);
 
-<div align="center">
-  <p >Adoro Games 🤫🎮</p>
-  
-  <img style="border-radius: 32px" width="15%" src="https://user-images.githubusercontent.com/61908237/194452301-25add5bd-06dc-4a4f-91a4-0cdb4c7877c9.gif" alt="Fallen"/>
-</div>
-
 ## 
 
 <div align="left">
