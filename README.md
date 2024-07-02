@@ -62,10 +62,6 @@
   <a href="mailto:kayque.original@hotmail.com">
     <code><img alt="Meu e-mail" width="32" src="https://cdn-icons-png.flaticon.com/512/324/324123.png" /></code>
   </a>
-
-  <a href="mailto:kayque.original@hotmail.com">
-    <code><img alt="Meu instagram" width="32" src="https://cdn-icons-png.flaticon.com/512/725/725278.png" /></code>
-  </a>
 </div>
 
 <br/><br/>
