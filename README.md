@@ -1,7 +1,7 @@
 <h1 align="center">🙂 <strong>Olá, seja bem vindo(a) ao meu perfil ")</strong></h1>
 
 <p align="center">
-  Meu nome é Kayque Meira Siqueira, tenho 18 anos e sou de Belo Horizonte - MG.
+  Meu nome é Kayque Meira Siqueira, tenho 20 anos e sou de Belo Horizonte - MG.
 </p>
 
 <h3 align="center"> Algumas informações sobre mim 💬 </h3>
