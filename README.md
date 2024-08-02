@@ -6,7 +6,7 @@
 
 <h3 align="center"> Algumas informações sobre mim 💬 </h3>
 
-- 👩🏻‍💻 No momento, estou estagiando como desenvolvedor de sistemas especializado nas tecnologias React Native, React JS, Typescript, Javascript e em C# no desenvolvimento Backend (onde ainda estou dando meus pequenos passos);
+- 👩🏻‍💻 No momento, estou estagiando como desenvolvedor de sistemas especializado nas tecnologias React Native, React JS, Typescript, Javascript e em C# e Python no desenvolvimento Backend;
 
 - 🔭 Meu foco no momento é em aprimorar minhas skills como desenvolvedor;
 
