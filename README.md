@@ -17,7 +17,7 @@
 ## 
 
 <div align="left">
-  <h3> Tecnologias que utilizo: </h3>
+  <h3> Tecnologias que mais utilizo: </h3>
 
   <div align="left">
     <a href="#">
