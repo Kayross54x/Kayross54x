@@ -1,4 +1,4 @@
-<h1 align="center">🙂 <strong>Olá, seja bem vindo(a) ao meu perfil ")</strong></h1>
+<h1 align="center"><strong>Olá, seja bem vindo(a) ao meu perfil ")</strong></h1>
 
 <p align="center">
   Meu nome é Kayque Meira Siqueira, tenho 20 anos e sou de Belo Horizonte - MG.
